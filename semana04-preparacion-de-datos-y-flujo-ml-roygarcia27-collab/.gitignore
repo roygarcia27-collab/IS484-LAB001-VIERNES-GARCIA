@@ -1,0 +1,18 @@
+# Entornos virtuales (se usa un unico entorno global fuera de este repositorio)
+venv/
+venv_ia1/
+.venv/
+env/
+
+# Cache y checkpoints de Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuracion local de editores
+.vscode/
+.idea/
